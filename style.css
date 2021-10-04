@@ -435,6 +435,7 @@ form {
     background-color: rgba(0, 0, 0, 0.9);
     text-align: center;
     width: 40vw;
+    border-radius: 5px;
 }
 
 .form-wrapper {
