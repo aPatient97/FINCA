@@ -315,7 +315,7 @@ img.trees {
 
 
 .cover-img {
-    background: url(/images/Rojo-Rubi-26.jpg);
+    background: url(images/Rojo-Rubi-26.jpg);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -327,7 +327,7 @@ img.trees {
 }
 
 .cover-img-2 {
-    background: url(/images/Rojo-Rubi-15.jpg);
+    background: url(images/Rojo-Rubi-15.jpg);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -336,7 +336,7 @@ img.trees {
 }
 
 .cover-img-3 {
-    background: url(/images/Rojo-Rubi-7.jpg);
+    background: url(images/Rojo-Rubi-7.jpg);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
